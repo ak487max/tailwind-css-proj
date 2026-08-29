@@ -1,25 +1,43 @@
-# 💼 Tailwind CSS Job Listings UI
+# 🎨 Tailwind CSS Project
 
-A modern and responsive job listings interface built with **React**, **Vite**, and **Tailwind CSS**. This project focuses on creating reusable components, responsive layouts, smooth hover effects, and a clean user experience.
+A responsive web project built using **React, Vite, and Tailwind CSS**. This project focuses on creating a clean and responsive user interface using utility-first CSS.
 
-## 🚀 Features
+## 🚀 Live Demo
 
-* Responsive job listing cards
-* Built with reusable React components
-* Styled using Tailwind CSS
-* Horizontal scrolling layout
-* Interactive hover effects
-* Company logos and job details
-* Clean and modern UI
-* Easy to customize and extend
+[View Live Project](https://tailwind-css-proj-u1d6.vercel.app/)
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-* React
-* Vite
-* Tailwind CSS
-* JavaScript (ES6+)
-* HTML5
+- 📱 Responsive design
+- 🎨 Modern and clean UI
+- ⚡ Fast development with Vite
+- 🧩 Reusable React components
+- 💨 Styled using Tailwind CSS
+- 🌐 Deployed using Vercel
+
+## 🛠️ Technologies Used
+
+- **React** – Building the user interface
+- **Tailwind CSS** – Styling and responsive design
+- **Vite** – Development and build tool
+- **JavaScript** – Functionality
+- **Vercel** – Deployment
+
+## 📂 Project Structure
+
+```text
+tailwind-css-proj/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
 * CSS3
 
 ## 📂 Project Structure
