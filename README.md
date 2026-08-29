@@ -53,12 +53,6 @@ src/
 └── index.css
 ```
 
-## 📸 Preview
-
-> Add screenshots of the application here after making the repository public.
-
-Example:
-
 
 ## ⚙️ Installation
 
